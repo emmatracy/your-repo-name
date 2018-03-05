@@ -1,5 +1,4 @@
 # X-Team NN Style Guide 
-:simple_smile:
 
 <brief description of your team's opinion or philosophy regarding Style Guides>
 
