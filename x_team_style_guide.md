@@ -82,6 +82,7 @@ public void AVLTree(Node root)
   * if statements
      ```
      if (statement) {
+        statement
      }
      ```
   * switch statement
@@ -101,11 +102,18 @@ public void AVLTree(Node root)
   * while loops
       ```
       while (statement) {
+         statement
       }
       ```
   * for loops
       ```
       for (int i = 0; i < 10; i++) {
+         statement
       }
       ```
   * enhanced for loops
+      ```
+      for (String s: list) {
+         statement
+      }
+      ```
