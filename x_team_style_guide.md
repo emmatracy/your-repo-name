@@ -25,6 +25,7 @@ private int lowerCamelCase
 ```
 * methods
 ```
+
 private void nameOfMethod() 
 ```
 * parameters
@@ -78,6 +79,10 @@ public void AVLTree(Node root)
 ```
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
+     ```
+     if (statement) {
+     }
+     ```
   * switch statement
      ```
      int num = 2;
