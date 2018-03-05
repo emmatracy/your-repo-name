@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# X-Team 271 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -10,11 +10,11 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-
+volunteering
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-
+review each other's work through code review and communicate when tasks are accomplished/started
 
 ## How will will communicate difficulties with a task assigned to us
 
