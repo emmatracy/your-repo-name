@@ -8,14 +8,41 @@ Least confusing and most descriptive as possible for teammates to interpret.
 
 ### Examples
 * interfaces
+```
+public interface NameOfInterface
+```
 * classes
+```
+private class NameOfClass
+```
 * exception types
+```
+class NameOfException extends Exception
+```
 * fields
+```
+private int lowerCamelCase
+```
 * methods
+```
+private void nameOfMethod() 
+```
 * parameters
+```
+(int nameOfParam, T genericParamName)
+```
 * local variables
+```
+int localVariable;
+```
 * instance constants
+```
+int CONSTANT_NAME;
+```
 * class constants
+```
+static List LIST_CONSTANT;
+```
 
 ## Commenting style for public and private members of a class or interface:
 
