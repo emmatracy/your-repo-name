@@ -18,7 +18,7 @@ review each other's work through code review and communicate when tasks are acco
 
 ## How will will communicate difficulties with a task assigned to us
 
-
+Facebook chat
 
 ## How we will back up each other to ensure that deadlines are not missed
 
