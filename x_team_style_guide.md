@@ -4,7 +4,7 @@ Least confusing and most descriptive as possible for teammates to interpret.
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+Primarily focused on readability and consistency.
 
 ### Examples
 * interfaces
