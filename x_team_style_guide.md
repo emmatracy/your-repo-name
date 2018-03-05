@@ -1,6 +1,6 @@
-# X-Team NN Style Guide 
+# X-Team 271 Style Guide 
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+Least confusing and most descriptive as possible for teammates to interpret.
 
 ## Naming conventions
 
