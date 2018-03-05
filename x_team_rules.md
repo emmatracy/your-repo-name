@@ -9,20 +9,23 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
-volunteering
+* Divide work into evenly sized tasks
+* Volunteer for these tasks off the list
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-review each other's work through code review and communicate when tasks are accomplished/started
+* review each other's work through code review and communicate when tasks are accomplished/started
 
 ## How will will communicate difficulties with a task assigned to us
 
-Facebook chat
+* Facebook chat
+* Github issues
+* PR comments
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-communicate with team members
++ Take over tasks from other group members if necessary
++ Communicate well ahead of time if we will be unable to complete assigned tasks
 
 
 
