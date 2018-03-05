@@ -21,7 +21,7 @@ class NameOfException extends Exception
 ```
 * fields
 ```
-private int lowerCamelCase;
+private int lowerCamelCase
 ```
 * methods
 ```
@@ -53,24 +53,27 @@ obvious from method name/params/usage). In-line comments as necessary to explain
 
 * classes
 ```
-public <Class name>{
- }
+/**
+* Class name
+* purpose of the class
+*/
 ```
 * fields
 ```
 int <field name>
 ```
 * constructors
-```
-<class name>([parameter]){
-}
-```
+
 * methods
+```
+/*
+     * This method returns the value in the parameter
+     * @param value - the value passed as the parameter
+     * @return value - return the value passed into the parameter
+     */
+```
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
-     if (statement) {
-        .......
-     }
   * switch statement
   * while loops
   * for loops
