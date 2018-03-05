@@ -22,7 +22,7 @@ Facebook chat
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-
+communicate with team members
 
 
 
