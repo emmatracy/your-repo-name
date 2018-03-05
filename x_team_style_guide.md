@@ -79,6 +79,19 @@ public void AVLTree(Node root)
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
   * switch statement
+     ```
+     int num = 2;
+     switch (num) {
+        case 1:
+           System.out.println("");
+           break;
+        case 2: 
+           System.out.println("");
+           break;
+        default:
+           System.out.println("");
+      }
+      ```  
   * while loops
   * for loops
   * enhanced for loops
