@@ -9,23 +9,22 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-* Divide work into evenly sized tasks
-* Volunteer for these tasks off the list
+
+volunteering
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-* review each other's work through code review and communicate when tasks are accomplished/started
+review each other's work through code review and communicate when tasks are accomplished/started
 
 ## How will will communicate difficulties with a task assigned to us
-
-* Facebook chat
-* Github issues
-* PR comments
+update each other frequently through a group chat 
 
 ## How we will back up each other to ensure that deadlines are not missed
+set up multiple small deadlines to accomplish certain tasks before the whole project is due. 
+have 4-day buffer for individual tasks: finished/tested your own code
+have 2-day buffer for entire project: finished/tested entire program
 
-+ Take over tasks from other group members if necessary
-+ Communicate well ahead of time if we will be unable to complete assigned tasks
+
 
 
 
