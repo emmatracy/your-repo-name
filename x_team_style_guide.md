@@ -21,7 +21,7 @@ class NameOfException extends Exception
 ```
 * fields
 ```
-private int lowerCamelCase
+private int lowerCamelCase;
 ```
 * methods
 ```
