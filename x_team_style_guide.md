@@ -53,16 +53,20 @@ obvious from method name/params/usage). In-line comments as necessary to explain
 
 * classes
 ```
-/**
-* Class name
-* purpose of the class
-*/
+//This class is an AVL search tree implementing the BalancedSearchTree interface
+public class AVLTree() implements BalancedSearchTree
 ```
 * fields
 ```
-int <field name>
+In-line as necessary
+Node root //The tree's root
 ```
 * constructors
+```
+//Initializes a new AVLTree
+//@param root is a Node that will serve as the tree's root
+public void AVLTree(Node root)
+```
 
 * methods
 ```
