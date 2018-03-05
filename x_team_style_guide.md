@@ -68,6 +68,9 @@ int <field name>
 * methods
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
+     if (statement) {
+        .......
+     }
   * switch statement
   * while loops
   * for loops
