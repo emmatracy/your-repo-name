@@ -47,6 +47,7 @@ static List LIST_CONSTANT;
 
 ## Commenting style for public and private members of a class or interface:
 
+
 JavaDoc for all classes. JavaDoc when necessary for methods (if the method's functionality is not intuitively
 obvious from method name/params/usage). In-line comments as necessary to explain specific algorithm steps.
 
@@ -85,18 +86,26 @@ public void AVLTree(Node root)
      ```
   * switch statement
      ```
-     int num = 2;
+     int num;
      switch (num) {
         case 1:
-           System.out.println("");
+           statement
            break;
         case 2: 
-           System.out.println("");
+           statement
            break;
         default:
-           System.out.println("");
+           statement
       }
       ```  
   * while loops
+      ```
+      while (statement) {
+      }
+      ```
   * for loops
+      ```
+      for (int i = 0; i < 10; i++) {
+      }
+      ```
   * enhanced for loops
