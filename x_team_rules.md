@@ -1,4 +1,4 @@
-# X-Team 271 Rules
+*# X-Team 271 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -20,9 +20,9 @@ review each other's work through code review and communicate when tasks are acco
 update each other frequently through a group chat 
 
 ## How we will back up each other to ensure that deadlines are not missed
-set up multiple small deadlines to accomplish certain tasks before the whole project is due. 
-have 4-day buffer for individual tasks: finished/tested your own code
-have 2-day buffer for entire project: finished/tested entire program
+*set up multiple small deadlines to accomplish certain tasks before the whole project is due. 
+*have 4-day buffer for individual tasks: finished/tested your own code
+*have 2-day buffer for entire project: finished/tested entire program
 
 
 
