@@ -46,10 +46,8 @@ static List LIST_CONSTANT;
 
 ## Commenting style for public and private members of a class or interface:
 
-+ JavaDoc for all classes
-+ JavaDoc when necessary for methods (if the method's functionality is not intuitively
-obvious from method name/params/usage)
-+ In-line comments as necessary to explain specific algorithm steps.
+JavaDoc for all classes. JavaDoc when necessary for methods (if the method's functionality is not intuitively
+obvious from method name/params/usage). In-line comments as necessary to explain specific algorithm steps.
 
 ### Examples
 
@@ -57,8 +55,16 @@ obvious from method name/params/usage)
 ```
 public <Class name>{
  }
+```
 * fields
+```
+int <field name>
+```
 * constructors
+```
+<class name>([parameter]){
+}
+```
 * methods
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
