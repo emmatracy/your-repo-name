@@ -46,7 +46,8 @@ static List LIST_CONSTANT;
 
 ## Commenting style for public and private members of a class or interface:
 
-<brief statement of your team's commenting style>
+JavaDoc for all classes. JavaDoc when necessary for methods (if the method's functionality is not intuitively
+obvious from method name/params/usage). In-line comments as necessary to explain specific algorithm steps.
 
 ### Examples
 
